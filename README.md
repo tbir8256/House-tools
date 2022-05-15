@@ -5,3 +5,5 @@ table
 sofa
 Tv
 Sink
+kitchen cabinate
+stove
